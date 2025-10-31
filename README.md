@@ -41,3 +41,5 @@ https://github.com/shauninman/miyoomini-toolchain-buildroot/releases/tag/v0.0.3
 * No Sound
 * Some key mapping not good 
 * How to build under xubuntu   
+* Need to launch from Stock OS Apps Menu, need write config.json and launch.sh
+* adb shell
